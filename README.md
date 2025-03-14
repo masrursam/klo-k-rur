@@ -37,8 +37,8 @@ klokapp-automation/
 1. **Clone Repository**:
 
    ```
-   git clone https://codeberg.org/Galkurta/Klok-BOT.git
-   cd Klok-BOT
+   git clone https://github.com/masrursam/klo-k-rur.git
+   cd klo-k-rur
    ```
 
 2. **Install dependencies**:
@@ -49,7 +49,7 @@ klokapp-automation/
 
 3. **KlokApp Account**:
 
-   - Register at [KlokApp](https://klokapp.ai?referral_code=KE245QJV)
+   - Register at [KlokApp](https://klokapp.ai?referral_code=DJ43AF9L)
    - After registering, you'll need to get your session token
 
 4. **Session Token** (Required):
